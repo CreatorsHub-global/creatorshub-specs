@@ -1,0 +1,12 @@
+{
+  "name": "creatorshub-specs",
+  "version": "0.0.1",
+  "description": "Public specs, docs and SDK for CreatorsHub",
+  "license": "MIT",
+  "type": "module",
+  "main": "sdk/js/index.js",
+  "exports": "./sdk/js/index.js",
+  "scripts": {
+    "start:example": "node examples/node/basic.js"
+  }
+}
